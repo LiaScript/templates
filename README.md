@@ -37,7 +37,7 @@ A list of templates for extending LiaScript course
   * Raw-File: https://raw.githubusercontent.com/liaScript/Prolog_template/master/README.md
   * LiaScript: https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/Prolog_template/master/README.md
 
-* [rextester](https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/rextester_template/master/README.md): support for 45 different programming languages
+* [rextester](http://rextester.com): support for 45 different programming languages
   * Github: https://github.com/liaScript/rextester_template
   * Raw-File: https://raw.githubusercontent.com/liaScript/rextester_template/master/README.md
   * LiaScript: https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/rextester_template/master/README.md
