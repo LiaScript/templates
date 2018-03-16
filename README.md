@@ -21,8 +21,16 @@ A list of templates for extending LiaScript course
   matrices, derivatives and gradients, tensors, integrals, multi-integrals,
   computing integrals and much more!
 
+## Graphs
+
+* [MermaidJS](https://mermaidjs.github.io/):
+  * Github: https://github.com/liaScript/mermaid_template
+  * Raw-File: https://raw.githubusercontent.com/liaScript/mermaid_template/master/README.md
+  * LiaScript: https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/mermaid_template/master/README.md
+
 ## Programming
 
+* [C++]()
 * [Prolog]()
 * [rextester](https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/rextester_template/master/README.md): support for 45 different programming languages
 
