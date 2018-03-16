@@ -23,7 +23,7 @@ A list of templates for extending LiaScript course
 
 ## Graphs
 
-* [MermaidJS](https://mermaidjs.github.io/):
+* [MermaidJS](https://mermaidjs.github.io): A simple markdown-like script language for generating charts from text via javascript.
   * Github: https://github.com/liaScript/mermaid_template
   * Raw-File: https://raw.githubusercontent.com/liaScript/mermaid_template/master/README.md
   * LiaScript: https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/mermaid_template/master/README.md
