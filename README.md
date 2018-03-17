@@ -30,7 +30,11 @@ A list of templates for extending LiaScript course
 
 ## Programming
 
-* [C++]()
+* [C++](https://github.com/felixhao28/JSCPP): C++ interpreter implement in JavaScript.
+  * Github: https://github.com/liaScript/jscpp_template
+  * Raw-File: https://raw.githubusercontent.com/liaScript/jscpp_template/master/README.md
+  * LiaScript: https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/jscpp_template/master/README.md
+
 
 * [Prolog](https://curiosity-driven.org/prolog-interpreter): Prolog-Interpreter implemented in 160 lines of JavaScript-code.
 
