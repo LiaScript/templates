@@ -36,6 +36,13 @@ A list of templates for extending LiaScript course
   * LiaScript: https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/jscpp_template/master/README.md
 
 
+* [Tau-Prolog](http://tau-prolog.org): A fully functional Prolog-Interpreter for
+  JavaScript.
+  * Github: https://github.com/liaScript/tau-prolog_template
+  * Raw-File: https://raw.githubusercontent.com/liaScript/tau-rolog_template/master/README.md
+  * LiaScript: https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/tau-prolog_template/master/README.md
+
+
 * [Prolog](https://curiosity-driven.org/prolog-interpreter): Prolog-Interpreter implemented in 160 lines of JavaScript-code.
 
   * Github: https://github.com/liaScript/Prolog_template
