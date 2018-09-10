@@ -28,6 +28,17 @@ A list of templates for extending LiaScript course
   * Raw-File: https://raw.githubusercontent.com/liaScript/mermaid_template/master/README.md
   * LiaScript: https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/mermaid_template/master/README.md
 
+
+## Imaging
+
+* [Pannellum 360 panorama images](https://mermaidjs.github.io): Pannellum is a lightweight, free,
+  and open source panorama viewer for the web. Built using HTML5, CSS3,
+  JavaScript, and WebGL, it is plug-in free.
+  * Github: https://github.com/liaScript/pannellum_template
+  * Raw-File: https://raw.githubusercontent.com/liaScript/pannellum_template/master/README.md
+  * LiaScript: https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/pannellum_template/master/README.md
+
+
 ## Programming
 
 * [C++](https://github.com/felixhao28/JSCPP): C++ interpreter implement in JavaScript.
