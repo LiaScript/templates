@@ -41,7 +41,7 @@ A list of templates for extending LiaScript course
 
 ## Programming
 
-* [C++](https://github.com/felixhao28/JSCPP): C++ interpreter implement in JavaScript.
+* [JSCPP - C++](https://github.com/felixhao28/JSCPP): C++ interpreter implement in JavaScript.
   * Github: https://github.com/liaScript/jscpp_template
   * Raw-File: https://raw.githubusercontent.com/liaScript/jscpp_template/master/README.md
   * LiaScript: https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/jscpp_template/master/README.md
@@ -61,11 +61,28 @@ A list of templates for extending LiaScript course
   * LiaScript: https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/Prolog_template/master/README.md
 
 
+* [Python (Skulpt)](http://www.skulpt.org): Skulpt is an entirely
+  in-browser implementation of Python. No preprocessing, plugins, or server-side
+  support required, just write Python and reload.
+
+  * Github: https://github.com/liaScript/skulpt_template
+  * Raw-File: https://raw.githubusercontent.com/liaScript/skulpt_template/master/README.md
+  * LiaScript: https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/skulpt_template/master/README.md
+
+
 * [rextester](http://rextester.com): support for 45 different programming languages
 
   * Github: https://github.com/liaScript/rextester_template
   * Raw-File: https://raw.githubusercontent.com/liaScript/rextester_template/master/README.md
   * LiaScript: https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/rextester_template/master/README.md
+
+
+* [TensorFlow.JS](https://js.tensorflow.org): A JavaScript library for training
+  and deploying ML models in the browser and on Node.js
+
+  * Github: https://github.com/liaScript/tensorflowjs_template
+  * Raw-File: https://raw.githubusercontent.com/liaScript/tensorflowjs_template/master/README.md
+  * LiaScript: https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/tensorflowjs_template/master/README.md
 
 ## Visualization
 
@@ -79,5 +96,3 @@ A list of templates for extending LiaScript course
   * Github: https://github.com/liaScript/processing_template
   * Raw-File: https://raw.githubusercontent.com/liaScript/processing_template/master/README.md
   * LiaScript: https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/processing_template/master/README.md
-
-  
