@@ -70,6 +70,16 @@ A list of templates for extending LiaScript course
   * LiaScript: https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/skulpt_template/master/README.md
 
 
+* [SQL](http://alasql.org): AlaSQL - is a lightweight client-side in-memory SQL
+  database designed to work in browser and Node.js. It Handles both traditional
+  relational tables and nested JSON data (NoSQL). Export, store, and import data
+  from localStorage, IndexedDB, or Excel.
+
+  * Github: https://github.com/liaScript/alasql_template
+  * Raw-File: https://raw.githubusercontent.com/liaScript/alasql_template/master/README.md
+  * LiaScript: https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/alasql_template/master/README.md
+
+
 * [rextester](http://rextester.com): support for 45 different programming languages
 
   * Github: https://github.com/liaScript/rextester_template
