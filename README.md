@@ -94,6 +94,15 @@ A list of templates for extending LiaScript course
   * Raw-File: https://raw.githubusercontent.com/liaScript/tensorflowjs_template/master/README.md
   * LiaScript: https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/tensorflowjs_template/master/README.md
 
+## WebDev
+
+* A basic Web-Development Template that combines HTML and JavaScript, either
+  separated or in combination.
+
+  * Github: https://github.com/liaScript/WebDev_template
+  * Raw-File: https://raw.githubusercontent.com/liaScript/WebDev_template/master/README.md
+  * LiaScript: https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/WebDev_template/master/README.md
+
 ## Visualization
 
 * [ProcessingJS](http://processingjs.org/): Processing.js is the sister project
