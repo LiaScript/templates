@@ -94,6 +94,16 @@ A list of templates for extending LiaScript course
   * Raw-File: https://raw.githubusercontent.com/liaScript/tensorflowjs_template/master/README.md
   * LiaScript: https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/tensorflowjs_template/master/README.md
 
+## Simulations
+
+* [logicemu](https://lodev.org/logicemu/): A digital logic simulator, that
+  allows to define circuits ASCII-art diagrams and directly parses and executes
+  them.
+
+  * Github: https://github.com/liaScript/logicemu_template
+  * Raw-File: https://raw.githubusercontent.com/liaScript/logicemu_template/master/README.md
+  * LiaScript: https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/logicemu_template/master/README.md
+
 ## WebDev
 
 * A basic Web-Development Template that combines HTML and JavaScript, either
